@@ -7,6 +7,7 @@ public class DB
 	{
 		System.out.println("DB pangol");
 //	  //je suis un vrais informaticien */
+		//ATUVULERKEUNOUY
 	}
 
 }
