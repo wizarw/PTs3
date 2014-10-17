@@ -12,6 +12,8 @@ public class DB
 		// Enfin peut-être un peu 
 		
 		//hehe sa marche !!!
+		
+		// Salut, je suis une poule
 	}
 
 }
